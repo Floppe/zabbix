@@ -3,6 +3,8 @@ NUT-Template
 
 Zabbix Template for NUT(Network UPS Tools)
 
+Recommended Zabbix version: 4.2
+
 # Value mapping
 
 Value mapping must be done before importing template. It can done in **Administration** / **General** / **Value mapping** (combobox on right side)
